@@ -1,2 +1,2 @@
 # Halo-Dunia
-Hello World in multiple languages
+Hello World in multiple programming languages
