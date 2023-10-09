@@ -1,8 +1,0 @@
-let a = 10 
-let b;
-if (a<=10){
-    a = "asda"
-}
-else{
-    a="asdss"
-}
