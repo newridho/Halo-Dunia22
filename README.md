@@ -12,12 +12,10 @@
 
 🎉 We welcome contributions from everyone, regardless of your experience level. Here are some ways you can contribute:
 
+Do read the [Contribution Guidelines](/CONTRIBUTING.md)
+
 - 📚 Add new file with other programming language
 - 🐞 Reporting issues
-
-### Code of Conduct
-
-Please read our [Code of Conduct](codeofconduct.md) before participating in this project.
 
 ### FAQs
 
