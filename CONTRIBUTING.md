@@ -1,14 +1,11 @@
 # Contribution Rules📚:
 
-Before you start contributing, please read our [Code of Conduct](codeofconduct.md). We expect all contributors to follow these guidelines to ensure a positive and inclusive community.
-
-
-- Create an issue about the code or contributions you want to make.
-- Go through the issues before creating one,to avoid duplicate issues
-- Once assigned,make your contributions and create your first PR
-- kindly provide a simple detail about you code or contribution,so others can learn and improve on it
+- Create files to display `hello world` with various programming languages
+- Look at other files before creating one,to avoid duplicate files
+- If you want to create a file, but there is already the same file 
+- Just add a number to the end of the file name
+- e.g FROM `hello-world.py` to `hello-world2.py` 
 - Do NOT remove other content.
-- Styling/code can be pretty, ugly or stupid, big or small as long as it works
 - Try to keep pull requests small to minimize merge conflicts
 
 <br>
@@ -16,32 +13,17 @@ Before you start contributing, please read our [Code of Conduct](codeofconduct.m
 ## FAQs
 If you have any questions, please check our [FAQs](faqs.md) for answers.
 
-
-
-## Language-Specific Folders
-
-We have organized the project into different folders for various programming languages and web development. Choose the folder that suits your skills and interests:
-
-- [Python](Python/)
-- [C](C/)
-- [C++](C++/)
-- [Java](Java/)
-- [JavaScript](JavaScript/)
-- [Web Development](Web-Development/)
-
-If you are new to programming, we recommend starting with the "Web Development" folder.
-
-## Getting Started 🤩🤗:
+## Getting Started ✨:
 
 - Fork this repo (button on top)
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/ossamamehmood/Hacktoberfest2023.git
+git clone https://github.com/newridho/Halo-Dunia22.git
 ```
 - Navigate to project directory.
 ```terminal
-cd Hacktoberfest2023
+cd Halo-Dunia22
 ```
 
 - Create a new Branch
@@ -75,7 +57,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/ossamamehmood/Hacktoberfest2023
+git remote add upstream https://github.com/newridho/Halo-Dunia22
 ```
 
 You can verify that the new remote has been added by typing
